@@ -21,18 +21,7 @@
 3. <font>Instale las dependencias con Composer:</font>`composer install`
 4. <font>Verifique que PHPUnit se haya instalado correctamente:</font>`./vendor/bin/phpunit --version`
 
-## <font>📂 Estructura del proyecto</font>
 
-```
-Sprint-1-Tema7-Testing/  
-├── src/  
-│   ├── NumberChecker.php  
-│   └── GradeChecker.php  
-├── tests/  
-│   ├── NumberCheckerTest.php  
-│   └── GradeCheckerTest.php  
-├── composer.json  
-└── README.md  
 ```
 
 ## <font>▶ Ejercicios incluidos</font>
@@ -50,19 +39,7 @@ Sprint-1-Tema7-Testing/
 * <font>33-44%: Tercera División</font>
 * <font>< 33%: Reprobado</font>
 
-## <font>▶ Cómo ejecutar las pruebas</font>
 
-<font>Para ejecutar todas las pruebas:</font>
-
-```
-./vendor/bin/phpunit tests  
-```
-
-<font>Para ejecutar una prueba específica:</font>
-
-```
-./vendor/bin/phpunit tests/NumberCheckerTest.php  
-```
 
 ## <font>🎯 Objetivos de aprendizaje</font>
 
