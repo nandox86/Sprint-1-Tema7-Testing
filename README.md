@@ -40,6 +40,23 @@
 * <font>< 33%: Reprobado</font>
 
 
+## <font>📂 Estructura del proyecto</font>
+
+## ```
+Sprint-1-Tema7-Testing/  
+├── tema (7) debug/  
+│   ├── ejercicio1/  
+│   │   ├── tests/  
+│   │   │   └── numberCheckerTest.php  
+│   │   └── numberChecker.php  
+│   ├── ejercicio2/  
+│   │   ├── gradeChecker.php  
+│   │   └── tdd.php  
+├── .gitignore  
+├── composer.json  
+└── README.md  
+```
+
 
 ## <font>🎯 Objetivos de aprendizaje</font>
 
