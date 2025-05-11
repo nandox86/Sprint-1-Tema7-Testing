@@ -31,8 +31,8 @@ class GradeCheckerTest extends TestCase
         // probamos con un valor intermedio
         $this->assertEquals("Segunda División", verificarGrado(50));
         
-        // probamos con el valor maximo (59.9)
-        $this->assertEquals("Segunda División", verificarGrado(59.9));
+        // probamos con el valor maximo (59)
+        $this->assertEquals("Segunda División", verificarGrado(59));
     }
     
     // test para verificar tercera division (33 <= nota < 45)
@@ -44,8 +44,8 @@ class GradeCheckerTest extends TestCase
         // probamos con un valor intermedio
         $this->assertEquals("Tercera División", verificarGrado(40));
         
-        // probamos con el valor maximo (44.9)
-        $this->assertEquals("Tercera División", verificarGrado(44.9));
+        // probamos con el valor maximo (44
+        $this->assertEquals("Tercera División", verificarGrado(44));
     }
     
     // test para verificar reprobado (nota < 33)
@@ -57,8 +57,8 @@ class GradeCheckerTest extends TestCase
         // probamos con un valor intermedio
         $this->assertEquals("Reprobado", verificarGrado(15));
         
-        // probamos con el valor maximo (32.9)
-        $this->assertEquals("Reprobado", verificarGrado(32.9));
+        // probamos con el valor maximo (32)
+        $this->assertEquals("Reprobado", verificarGrado(32));
     }
     
     // test para verificar validacion de rango (0-100)
