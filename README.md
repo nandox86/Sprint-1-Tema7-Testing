@@ -22,7 +22,7 @@
 4. <font>Verifique que PHPUnit se haya instalado correctamente:</font>`./vendor/bin/phpunit --version`
 
 
-```
+
 
 ## <font>▶ Ejercicios incluidos</font>
 
@@ -41,8 +41,7 @@
 
 
 ## <font>📂 Estructura del proyecto</font>
-
-## ```
+ ```
 Sprint-1-Tema7-Testing/  
 ├── tema (7) debug/  
 │   ├── ejercicio1/  
