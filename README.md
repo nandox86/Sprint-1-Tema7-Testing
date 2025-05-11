@@ -30,7 +30,7 @@
 
 <font>Creación de pruebas unitarias para verificar el funcionamiento de la clase</font>`NumberChecker`<font>, que contiene métodos para comprobar si un número es par y si es positivo.</font>
 
-### <font>Ejercicio 2: T</font>
+### <font>Ejercicio 2: TDD</font>
 
 <font>Aplicación de la metodología TDD (Test-Driven Development) para desarrollar una función que verifica el grado académico de un estudiante según su nota, siguiendo estas condiciones:</font>
 
